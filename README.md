@@ -20,4 +20,4 @@ Table of contents:
 11. Summary
 12. Save final model
 13. Predicting test-set output using the model
-14. Exploring Model's Confusion Matrix
+14. Exploring Model's Confusion Matrix and Classificatoin Report
