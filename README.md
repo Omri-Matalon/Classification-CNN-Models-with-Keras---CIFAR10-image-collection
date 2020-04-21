@@ -8,9 +8,9 @@ Images of 10 categories was obtained from the CIFAR10 image collection dataset, 
 
 Table of contents:
 1.  Loading and exploring the data
-2.  Building a baseling CNN model (1 VGG Block)
-3.  Building and training a baseling CNN model (2 VGG Blocks)
-4.  Building and training a baseling CNN model (3 VGG Blocks)
+2.  Building a baseline CNN model (1 VGG Block)
+3.  Building and training a baseline CNN model (2 VGG Blocks)
+4.  Building and training a baseline CNN model (3 VGG Blocks)
 5.  Developing an Improved Model: Dropout Regularization
 6.  Model optimization: Weight Decay
 7.  Model optimization: Data Augmentation
